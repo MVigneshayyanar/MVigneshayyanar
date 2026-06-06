@@ -4,38 +4,26 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=🚀+Building+production+apps+that+actually+ship;📱+Flutter+%7C+Dart+%7C+Firebase+%7C+Supabase;🌐+React+%7C+Node.js+%7C+MongoDB+%7C+AWS;☁️+Cloud+Computing+%7C+Serverless+%7C+DevOps;🎓+M.Tech+CSE+%40+Sri+Sairam+Engineering+College" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+production+apps+that+actually+ship+%F0%9F%9A%80;Flutter+%7C+Dart+%7C+Firebase+%7C+Supabase;React+%7C+Node.js+%7C+MongoDB+%7C+AWS;Cloud+Computing+%7C+Serverless+%7C+DevOps;M.Tech+CSE+%40+Sri+Sairam+Engineering+College" alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- GitHub Green Contribution Graph -->
-<img src="https://ghchart.rshah.org/2dba4e/MVigneshayyanar" alt="Vigneshayyanar's Github Contribution Chart" width="100%" />
+<!-- Classic GitHub green commit calendar — small size -->
+<img src="https://ghchart.rshah.org/239a3b/MVigneshayyanar" alt="Contribution Graph" width="55%" />
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/vigneshayyanar-m-3b1823293/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://vigneshayyanar.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://github.com/MVigneshayyanar">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://leetcode.com/u/vigneshinr">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-<a href="http://www.skillrack.com/profile/524544/2a1c4c7fc24c0073be1038eb69c63a8d79b62f96">
-  <img src="https://img.shields.io/badge/SkillRack-6C63FF?style=for-the-badge&logo=codewars&logoColor=white" />
-</a>
-<a href="https://mail.google.com/mail/?view=cm&to=vigneshayyanar134@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<a href="https://www.linkedin.com/in/vigneshayyanar-m-3b1823293/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://vigneshayyanar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/MVigneshayyanar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://leetcode.com/u/vigneshinr"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="http://www.skillrack.com/profile/524544/2a1c4c7fc24c0073be1038eb69c63a8d79b62f96"><img src="https://img.shields.io/badge/SkillRack-6C63FF?style=for-the-badge&logo=codewars&logoColor=white" /></a>
+<a href="mailto:vigneshayyanar134@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=MVigneshayyanar&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/badge/Open%20For-Opportunities-brightgreen?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20For-Opportunities-3fb950?style=for-the-badge" />
 
 </div>
 
@@ -45,25 +33,35 @@
 
 ## 🧠 About Me
 
-```dart
-class Vigneshayyanar {
-  final String name     = "Vigneshayyanar M";
-  final String role     = "Full Stack Engineer @ Maestromind";
-  final String degree   = "M.Tech CSE Integrated 5-Year @ Sri Sairam Engineering College";
-  final String location = "Chennai, Tamil Nadu 🇮🇳";
-  final bool   openTo   = true; // collaborations, freelance & full-time
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 
-  final List<String> expertise = [
-    "Cross-platform mobile apps · Flutter & Dart",
-    "Full-stack web apps · React & Node.js",
-    "Scalable backends · Firebase, Supabase & MongoDB",
-    "Cloud infrastructure · AWS (EC2, S3, Lambda, CloudWatch)",
-    "Offline-first architecture & role-based access systems",
-  ];
+### 💡 Vigneshayyanar M — Engineering products end to end
 
-  String get motto => "Ship fast. Break nothing. Repeat. 🚀";
-}
+```yaml
+name    : Vigneshayyanar M
+role    : Full Stack Engineer @ Maestromind
+college : Sri Sairam Engineering College, Chennai
+degree  : M.Tech CSE — Integrated 5-Year (2023–2028)
+location: Chennai, Tamil Nadu 🇮🇳
+status  : Open to Opportunities ✅
 ```
+
+- 🚀 &nbsp; Building **MAXmybill** — Flutter billing system used by **50+ store owners**
+- 📱 &nbsp; Shipped **Itme Meditation App** solo to the **Google Play Store**
+- ☁️ &nbsp; Built **AWS Cloud Resource Management** — EC2, S3, Lambda, CloudWatch
+- 🏗️ &nbsp; Passionate about **offline-first architecture**, clean code & RBAC systems
+- 🎯 &nbsp; Always building — **React · Node.js · Flutter · Firebase · Supabase · AWS**
+
+<br clear="right"/>
+
+<div align="center">
+
+![](https://img.shields.io/badge/📍_Chennai-India-0d1117?style=flat-square&labelColor=161b22&color=58a6ff)
+![](https://img.shields.io/badge/🎓_M.Tech_CSE-Sri_Sairam-0d1117?style=flat-square&labelColor=161b22&color=6e40c9)
+![](https://img.shields.io/badge/💼_Full_Stack-Maestromind-0d1117?style=flat-square&labelColor=161b22&color=238636)
+![](https://img.shields.io/badge/🟢_Open_To-Opportunities-0d1117?style=flat-square&labelColor=161b22&color=3fb950)
+
+</div>
 
 ---
 
@@ -211,13 +209,13 @@ class Vigneshayyanar {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MVigneshayyanar&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=MVigneshayyanar&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&cache_seconds=86400" />
 &nbsp;
-<img height="180" src="https://streak-stats.demolab.com?user=MVigneshayyanar&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1f6feb&fire=ff6b35&currStreakLabel=58a6ff&sideLabels=58a6ff" />
+<img height="175" src="https://streak-stats.demolab.com/?user=MVigneshayyanar&hide_border=true&background=0d1117&ring=1f6feb&fire=ff6b35&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9&stroke=c9d1d9&sideNums=ffffff&currStreakNum=ffffff" />
 
 <br/><br/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MVigneshayyanar&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MVigneshayyanar&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&cache_seconds=86400" />
 
 </div>
 
@@ -227,7 +225,7 @@ class Vigneshayyanar {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MVigneshayyanar&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=MVigneshayyanar&theme=onestar&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
 
 </div>
 
@@ -306,8 +304,8 @@ class Vigneshayyanar {
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://mail.google.com/mail/?view=cm&to=vigneshayyanar134@gmail.com">
-  <img src="https://img.shields.io/badge/Send_a_Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:vigneshayyanar134@gmail.com">
+  <img src="https://img.shields.io/badge/Send_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://vigneshayyanar.vercel.app">
