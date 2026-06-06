@@ -9,7 +9,7 @@
 <br/><br/>
 
 <!-- Classic GitHub green commit calendar — small size -->
-<img src="https://ghchart.rshah.org/239a3b/MVigneshayyanar" alt="Contribution Graph" width="55%" />
+<img src="https://ghchart.rshah.org/239a3b/MVigneshayyanar" alt="Contribution Graph" width="75%" />
 
 <br/><br/>
 
