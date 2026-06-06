@@ -46,7 +46,7 @@ location: Chennai, Tamil Nadu 🇮🇳
 status  : Open to Opportunities ✅
 ```
 
-- 🚀 &nbsp; Building **MAXmybill** — Flutter billing system used by **50+ store owners**
+- 🚀 &nbsp; Built **MAXmybill** — Flutter billing system used by **50+ store owners**
 - 📱 &nbsp; Shipped **Itme Meditation App** solo to the **Google Play Store**
 - ☁️ &nbsp; Built **AWS Cloud Resource Management** — EC2, S3, Lambda, CloudWatch
 - 🏗️ &nbsp; Passionate about **offline-first architecture**, clean code & RBAC systems
