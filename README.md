@@ -5,21 +5,20 @@
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+things+that+actually+ship+%F0%9F%9A%80;Flutter+%7C+React+%7C+Node.js+%7C+Firebase+%7C+AWS;M.Tech+CSE+%40+Sri+Sairam+Engineering+College;Full+Stack+Engineer+%40+Maestromind" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+things+that+actually+ship+%F0%9F%9A%80;Flutter+%7C+React+%7C+Node.js+%7C+Firebase+%7C+AWS;M.Tech+CSE+%40+Sri+Sairam+Engineering+College;Full+Stack+Engineer+%40+Maestromind;Open+for+Opportunities+%F0%9F%91%8B" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vigneshayyanar-m)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vigneshayyanar-m-3b1823293)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://vigneshayyanar.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MVigneshayyanar)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vigneshinr)
+[![SkillRack](https://img.shields.io/badge/SkillRack-6C63FF?style=for-the-badge&logo=codewars&logoColor=white)](http://www.skillrack.com/profile/524544/2a1c4c7fc24c0073be1038eb69c63a8d79b62f96)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vigneshayyanar134@gmail.com)
 
 <br/>
 
-<!-- Profile Views Counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=MVigneshayyanar&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
@@ -33,12 +32,14 @@ class Vigneshayyanar {
   final String role     = "Full Stack Engineer @ Maestromind";
   final String degree   = "M.Tech CSE (Integrated 5-Year) — Sri Sairam Engineering College";
   final String location = "Chennai, Tamil Nadu 🇮🇳";
+  final bool   openTo   = true; // opportunities & collaborations
 
-  final List<String> focus = [
-    "Cross-platform mobile apps with Flutter",
-    "Scalable web apps with React & Node.js",
-    "Cloud infrastructure on AWS & Firebase",
-    "Clean architecture & offline-first systems",
+  final List<String> expertise = [
+    "Cross-platform mobile apps with Flutter & Dart",
+    "Full-stack web apps with React & Node.js",
+    "Scalable backends with Firebase & MongoDB",
+    "Cloud infrastructure on AWS (EC2, S3, Lambda, CloudWatch)",
+    "Clean architecture, offline-first & role-based systems",
   ];
 
   String get motto => "Ship fast. Break nothing. Repeat.";
@@ -78,6 +79,7 @@ class Vigneshayyanar {
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 </div>
 
@@ -85,11 +87,12 @@ class Vigneshayyanar {
 
 ## 💼 Experience
 
-| Role | Company | Period |
-|------|---------|--------|
-| 🚀 **Full Stack Engineer** | Maestromind *(Hybrid)* | Nov 2025 – Present |
-| 📱 **Flutter App Developer Intern** | Ignito Corporation *(Remote)* | Jul 2025 – Aug 2025 |
-| ☁️ **AWS Cloud Intern** | Brainovision Solutions *(Remote)* | Feb 2025 – Jun 2025 |
+| | Role | Company | Period |
+|--|------|---------|--------|
+| 🚀 | **Full Stack App Developer** | Maestromind *(Remote)* | Nov 2025 – Present |
+| 📱 | **Flutter App Developer Intern** | Ignito Corporation *(Remote)* | Jul 2025 – Aug 2025 |
+| ☁️ | **AWS Cloud Intern** | Brainovision Solutions India Pvt. Ltd. *(Remote)* | Feb 2025 – Jun 2025 |
+| 💻 | **Web Developer Intern** | InternPe *(Remote)* | Jan 2025 – Feb 2025 |
 
 ---
 
@@ -99,20 +102,30 @@ class Vigneshayyanar {
 <table>
   <tr>
     <td width="50%">
+      <h3 align="center">🧾 MAXmybill — Billing System</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/50%2B-Store%20Owners-FF5722?style=for-the-badge"/>
+      </p>
+      <p>Flutter billing platform for store owners — invoice generation, staff management, inventory control, and Bluetooth thermal printer integration. Role-based access + offline-first architecture.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Bluetooth-0082FC?style=flat-square&logo=bluetooth&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%">
       <h3 align="center">🧘 Itme Meditation App</h3>
       <p align="center">
         <a href="https://play.google.com/store">
           <img src="https://img.shields.io/badge/Live%20on-Play%20Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white"/>
         </a>
       </p>
-      <p>Meditation & mindfulness app — built solo from dev to Play Store. Flutter + Firebase. Sub-2s load times on Android.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🧾 MAXmybill — Billing System</h3>
+      <p>Meditation & mindfulness app shipped solo end-to-end — from dev to Play Store listing. Flutter + Firebase with sub-2s load times on Android.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/50%2B-Store%20Owners-FF5722?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
       </p>
-      <p>End-to-end billing platform with Bluetooth thermal printer integration, role-based access, and offline-first architecture.</p>
     </td>
   </tr>
   <tr>
@@ -121,14 +134,50 @@ class Vigneshayyanar {
       <p align="center">
         <img src="https://img.shields.io/badge/200%2B-Donations%20Facilitated-4CAF50?style=for-the-badge"/>
       </p>
-      <p>Food donation platform with geolocation-based filtering (5 km radius), real-time updates via Firebase, 80%+ user retention.</p>
+      <p>Social impact food donation platform — donors post surplus food, recipients discover it via geolocation (5 km radius). Real-time Firebase updates, 80%+ user retention.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Realtime_DB-FF6F00?style=flat-square&logo=firebase&logoColor=white"/>
+      </p>
     </td>
     <td width="50%">
       <h3 align="center">📡 Attendance System (BLE)</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/99%25+-Marking%20Accuracy-2196F3?style=for-the-badge"/>
       </p>
-      <p>Enterprise BLE beacon attendance with role dashboards, automated reports (daily/weekly/monthly), CSV & PDF export.</p>
+      <p>Enterprise BLE beacon attendance with role-based dashboards, automated daily/weekly/monthly reports via Cloud Functions, CSV & PDF export. Serves 100+ users.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+        <img src="https://img.shields.io/badge/BLE_Beacon-0082FC?style=flat-square&logo=bluetooth&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🔧 EarlyCircuit</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/35%25-Error%20Reduction-E91E63?style=for-the-badge"/>
+      </p>
+      <p>Traced and resolved critical production bugs improving platform stability. Integrated a payment gateway enabling secure online transactions and unblocking revenue collection.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Bug_Fixing-FF5722?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Payment_Gateway-4CAF50?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Web-2196F3?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📱 Contact Management App</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/1000%2B-Contacts%20Handled-9C27B0?style=for-the-badge"/>
+      </p>
+      <p>Full-featured contact manager with CRUD, call history, native Android dialer integration via Flutter platform channels, and local caching for 50% faster lookups.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Native_Integration-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+      </p>
     </td>
   </tr>
 </table>
@@ -161,6 +210,16 @@ class Vigneshayyanar {
 
 ---
 
+## 📈 LeetCode Activity
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/vigneshinr?theme=dark&font=JetBrains%20Mono&ext=heatmap)](https://leetcode.com/u/vigneshinr)
+
+</div>
+
+---
+
 ## 📚 Education & Certifications
 
 🎓 **M.Tech in Computer Science & Engineering (Integrated 5-Year)**
@@ -173,11 +232,15 @@ Sri Sairam Engineering College, Chennai — *2023–2028*
 
 ---
 
-## 📈 LeetCode Activity
+## 💬 Coding Profiles
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/vigneshinr?theme=dark&font=JetBrains%20Mono&ext=heatmap)](https://leetcode.com/u/vigneshinr)
+| Platform | Purpose | Link |
+|----------|---------|------|
+| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) | Open source projects & Flutter apps | [MVigneshayyanar](https://github.com/MVigneshayyanar) |
+| ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black) | DSA & problem solving | [vigneshinr](https://leetcode.com/u/vigneshinr) |
+| ![SkillRack](https://img.shields.io/badge/SkillRack-6C63FF?style=flat-square&logo=codewars&logoColor=white) | Coding practice & certifications | [View Profile](http://www.skillrack.com/profile/524544/2a1c4c7fc24c0073be1038eb69c63a8d79b62f96) |
 
 </div>
 
@@ -189,7 +252,9 @@ Sri Sairam Engineering College, Chennai — *2023–2028*
 
 I'm always open to **collaborations**, **freelance projects**, or just a good technical conversation.
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vigneshayyanar-m)
+> *"Ready to bring your app ideas to life? I'm excited to work on innovative software projects and collaborate with amazing teams."*
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vigneshayyanar-m-3b1823293)
 [![Email Me](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vigneshayyanar134@gmail.com)
 [![Visit Portfolio](https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vigneshayyanar.vercel.app)
 
