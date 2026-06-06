@@ -4,9 +4,12 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=🚀+Building+production+apps+that+actually+ship;📱+Flutter+%7C+Dart+%7C+Firebase+%7C+Supabase;🌐+React+%7C+Node.js+%7C+MongoDB+%7C+AWS;☁️+Cloud+Computing+%7C+Serverless+%7C+DevOps;🎓+M.Tech+CSE+%40+Sri+Sairam+Engineering+College" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=🚀+Building+production+apps+that+actually+ship;📱+Flutter+%7C+Dart+%7C+Firebase+%7C+Supabase;🌐+React+%7C+Node.js+%7C+MongoDB+%7C+AWS;☁️+Cloud+Computing+%7C+Serverless+%7C+DevOps;🎓+M.Tech+CSE+%40+Sri+Sairam+Engineering+College" alt="Typing SVG" />
+
+<br/><br/>
+
+<!-- GitHub Green Contribution Graph -->
+<img src="https://ghchart.rshah.org/2dba4e/MVigneshayyanar" alt="Vigneshayyanar's Github Contribution Chart" width="100%" />
 
 <br/><br/>
 
@@ -32,7 +35,7 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=MVigneshayyanar&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/badge/Open%20For-Opportunities-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20For-Opportunities-brightgreen?style=for-the-badge" />
 
 </div>
 
@@ -56,11 +59,6 @@ class Vigneshayyanar {
     "Scalable backends · Firebase, Supabase & MongoDB",
     "Cloud infrastructure · AWS (EC2, S3, Lambda, CloudWatch)",
     "Offline-first architecture & role-based access systems",
-  ];
-
-  final List<String> currentlyLearning = [
-    "Advanced cloud architecture patterns",
-    "System design & scalability",
   ];
 
   String get motto => "Ship fast. Break nothing. Repeat. 🚀";
@@ -119,7 +117,7 @@ class Vigneshayyanar {
 
 | | Role | Company | Duration |
 |:--:|:-----|:--------|:--------:|
-| 🚀 | **Full Stack App Developer** | [Maestromind](https://maestromind.in) *(Hybrid)* | Nov 2025 – Present |
+| 🚀 | **Full Stack App Developer** | Maestromind *(Hybrid)* | Nov 2025 – Present |
 | 📱 | **Flutter App Developer Intern** | Ignito Corporation *(Remote)* | Jul 2025 – Aug 2025 |
 | ☁️ | **AWS Cloud Intern** | Brainovision Solutions India Pvt. Ltd. *(Remote)* | Feb 2025 – Jun 2025 |
 | 💻 | **Web Developer Intern** | InternPe *(Remote)* | Jan 2025 – Feb 2025 |
@@ -135,11 +133,9 @@ class Vigneshayyanar {
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🧾 MAXmybill</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/★_50%2B_Store_Owners-FF5722?style=flat-square" />
-      </div>
+      <div align="center"><img src="https://img.shields.io/badge/★_50%2B_Store_Owners-FF5722?style=flat-square" /></div>
       <br/>
-      <p>End-to-end Flutter billing platform — invoice generation, staff management, inventory control, and Bluetooth thermal printer integration. Role-based access (admin/manager/staff) + offline-first with auto-sync.</p>
+      <p>End-to-end Flutter billing platform — invoice generation, staff management, inventory control, and Bluetooth thermal printer integration. Role-based access + offline-first with auto-sync.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
@@ -148,9 +144,7 @@ class Vigneshayyanar {
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🧘 Itme Meditation App</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/★_Live_on_Play_Store-3DDC84?style=flat-square&logo=google-play&logoColor=white" />
-      </div>
+      <div align="center"><img src="https://img.shields.io/badge/★_Live_on_Play_Store-3DDC84?style=flat-square" /></div>
       <br/>
       <p>Meditation & mindfulness app shipped solo from dev to Play Store — full release pipeline, QA, and post-launch monitoring. Flutter + Firebase with sub-2s Android load times.</p>
       <p align="center">
@@ -163,11 +157,9 @@ class Vigneshayyanar {
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🍱 Harvest Hub</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/★_200%2B_Donations_Facilitated-4CAF50?style=flat-square" />
-      </div>
+      <div align="center"><img src="https://img.shields.io/badge/★_200%2B_Donations-4CAF50?style=flat-square" /></div>
       <br/>
-      <p>Social impact food donation platform — donors post surplus food, recipients discover nearby items within a 5 km radius. Real-time Firebase updates, push notifications, 80%+ user retention.</p>
+      <p>Social impact food donation platform — donors post surplus food, recipients discover nearby items within a 5 km radius. Real-time Firebase, push notifications, 80%+ user retention.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
@@ -176,11 +168,9 @@ class Vigneshayyanar {
     </td>
     <td width="50%" valign="top">
       <h3 align="center">📡 Attendance System (BLE)</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/★_99%25%2B_Marking_Accuracy-2196F3?style=flat-square" />
-      </div>
+      <div align="center"><img src="https://img.shields.io/badge/★_99%25%2B_Accuracy-2196F3?style=flat-square" /></div>
       <br/>
-      <p>Enterprise BLE beacon attendance — role-based dashboards for students & staff, 8 automated scheduled reports via Cloud Functions, CSV & PDF export. Serves 100+ users, saves 3+ hrs/week.</p>
+      <p>Enterprise BLE beacon attendance — role dashboards for students & staff, 8 automated scheduled reports via Cloud Functions, CSV & PDF export. 100+ users, saves 3+ hrs/week.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
@@ -191,11 +181,9 @@ class Vigneshayyanar {
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🔧 EarlyCircuit</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/★_35%25_Error_Reduction-E91E63?style=flat-square" />
-      </div>
+      <div align="center"><img src="https://img.shields.io/badge/★_35%25_Error_Reduction-E91E63?style=flat-square" /></div>
       <br/>
-      <p>Traced and resolved critical production bugs improving platform stability. Integrated a payment gateway enabling secure online transactions and unblocking revenue collection for the platform.</p>
+      <p>Traced and resolved critical production bugs improving platform stability. Integrated a payment gateway enabling secure online transactions and unblocking revenue collection.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Bug_Fixing-FF5722?style=flat-square"/>
         <img src="https://img.shields.io/badge/Payment_Gateway-4CAF50?style=flat-square"/>
@@ -204,9 +192,7 @@ class Vigneshayyanar {
     </td>
     <td width="50%" valign="top">
       <h3 align="center">📱 Contact Management App</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/★_1000%2B_Contacts_Handled-9C27B0?style=flat-square" />
-      </div>
+      <div align="center"><img src="https://img.shields.io/badge/★_1000%2B_Contacts-9C27B0?style=flat-square" /></div>
       <br/>
       <p>Full-featured contact manager with CRUD, call history, native Android dialer integration via Flutter platform channels, and local caching for 50% faster lookups.</p>
       <p align="center">
@@ -225,10 +211,11 @@ class Vigneshayyanar {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MVigneshayyanar&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=MVigneshayyanar&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1f6feb&fire=ff6b35&currStreakLabel=58a6ff&sideLabels=58a6ff" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=MVigneshayyanar&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
+&nbsp;
+<img height="180" src="https://streak-stats.demolab.com?user=MVigneshayyanar&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1f6feb&fire=ff6b35&currStreakLabel=58a6ff&sideLabels=58a6ff" />
 
-<br/>
+<br/><br/>
 
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MVigneshayyanar&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
 
@@ -240,31 +227,7 @@ class Vigneshayyanar {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MVigneshayyanar&theme=gitdimmed&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MVigneshayyanar&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true&area_color=1f6feb" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MVigneshayyanar/MVigneshayyanar/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MVigneshayyanar/MVigneshayyanar/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/MVigneshayyanar/MVigneshayyanar/output/github-snake-dark.svg" />
-</picture>
+<img src="https://github-profile-trophy.vercel.app/?username=MVigneshayyanar&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
 
 </div>
 
@@ -298,12 +261,12 @@ class Vigneshayyanar {
 
 ### 🏅 NPTEL Certifications
 
-| Badge | Course | Discipline | Year | Score |
-|:-----:|:-------|:----------|:----:|:-----:|
-| ![NPTEL](https://img.shields.io/badge/NPTEL-Elite-gold?style=flat-square&logo=google-scholar&logoColor=white) | **Cloud Computing** | Computer Science | 2026 | 🌟 Elite |
-| ![NPTEL](https://img.shields.io/badge/NPTEL-Discipline_Star-blue?style=flat-square&logo=google-scholar&logoColor=white) | **NPTEL Discipline Star** | Computer Science | 2026 | ⭐ Star |
-| ![NPTEL](https://img.shields.io/badge/NPTEL-Certified-orange?style=flat-square&logo=google-scholar&logoColor=white) | **Programming in Java** | Computer Science | 2024 | ✅ |
-| ![NPTEL](https://img.shields.io/badge/NPTEL-Certified-orange?style=flat-square&logo=google-scholar&logoColor=white) | **The Joy of Computing using Python** | Computer Science | 2024 | ✅ |
+| Badge | Course | Year |
+|:-----:|:-------|:----:|
+| ![Elite](https://img.shields.io/badge/NPTEL-Elite-FFD700?style=flat-square) | **Cloud Computing** | 2026 |
+| ![Star](https://img.shields.io/badge/NPTEL-Discipline_Star-58A6FF?style=flat-square) | **NPTEL Discipline Star Certificate** | 2026 |
+| ![Certified](https://img.shields.io/badge/NPTEL-Certified-FFA116?style=flat-square) | **Programming in Java** | 2024 |
+| ![Certified](https://img.shields.io/badge/NPTEL-Certified-FFA116?style=flat-square) | **The Joy of Computing using Python** | 2024 |
 
 </div>
 
