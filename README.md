@@ -9,7 +9,7 @@
 <br/><br/>
 
 <!-- Classic GitHub green commit calendar — small size -->
-<img src="https://ghchart.rshah.org/239a3b/MVigneshayyanar" alt="Contribution Graph" width="80%" />
+<img src="https://ghchart.rshah.org/239a3b/MVigneshayyanar" alt="Contribution Graph" width="70%" />
 
 <br/><br/>
 
@@ -209,23 +209,23 @@ status  : Open to Opportunities ✅
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=MVigneshayyanar&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&cache_seconds=86400" />
+<img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MVigneshayyanar&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
 &nbsp;
 <img height="175" src="https://streak-stats.demolab.com/?user=MVigneshayyanar&hide_border=true&background=0d1117&ring=1f6feb&fire=ff6b35&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9&stroke=c9d1d9&sideNums=ffffff&currStreakNum=ffffff" />
 
 <br/><br/>
 
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MVigneshayyanar&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&cache_seconds=86400" />
+<img height="155" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MVigneshayyanar&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MVigneshayyanar&theme=onestar&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+<img src="https://github-stats-alpha.vercel.app/api?username=MVigneshayyanar&cc=0d1117&tc=58a6ff&ic=1f6feb&bc=0d1117" />
 
 </div>
 
